@@ -6,6 +6,11 @@ STM32F4 Discovery kit for STM32F407
 
 # EXAMPLE
 
-**TEMPERATURE SENSOR (INTERN ADC) + GPIO**
+**TEMPERATURE SENSOR (INTERN ADC) + GPIO + UART COMMUNICATION**
 
-On this repository we implement the intern ADC for the lecture of the sensor temperature plus the blinkg of the leds byt GPIO, using the LL (Low Layer) library.
+On this repository we implement:
+ - Intern ADC for the lecture of the sensor temperature 
+ - LED'S to blinkig through the GPIO pins
+ - USART asynchronous communication
+
+ using the LL (Low Layer) library.
