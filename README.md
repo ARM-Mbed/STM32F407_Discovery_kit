@@ -35,4 +35,4 @@ ALL FEATURES:
 
 **TEMPERATURE SENSOR (INTERN ADC) + GPIO**
 
-This project implements the intern ADC for the lecture of the sensor temperature plus the blinkg of the leds byt GPIO, using the LL (Low Layer) library.
+On this repository we implement the intern ADC for the lecture of the sensor temperature plus the blinkg of the leds byt GPIO, using the LL (Low Layer) library.
