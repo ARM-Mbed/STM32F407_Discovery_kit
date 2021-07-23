@@ -1,0 +1,7 @@
+
+# Output Debug directory
+Debug/
+
+# Launch configurations
+*.launch
+
