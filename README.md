@@ -28,4 +28,8 @@ ALL FEATURES:
 * Import project from Atollic® TrueSTUDIO® and AC6 System Workbench for STM32 (SW4STM32)
 * Multi-OS support: Windows®, Linux®, and macOS®, 64-bit versions only
 
+# EXAMPLE
 
+**TEMPERATURE SENSOR (INTERN ADC) + GPIO**
+
+This project implements the intern ADC for the lecture of the sensor temperature plus the blinkg of the leds byt GPIO, using the LL (Low Layer) library.
