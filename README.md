@@ -2,9 +2,9 @@
 
 STM32F4 Discovery kit for STM32F407
 
-**STM32F407 DISCOVERY KIT** [STM32F407 Discovery kit] (https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+**STM32F407 DISCOVERY KIT** [STM32F407 Discovery kit](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
 
-**STM32Cube** [STM32CubeIDE] (https://www.st.com/en/development-tools/stm32cubeide.html) 
+**STM32Cube** [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) 
 
 
 DESCRIPTION: STM32CubeIDE is an all-in-one multi-OS development tool, which is part of the STM32Cube software ecosystem. STM32CubeIde Board PhotoSTM32CubeIDE is an advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32 microcontrollers and microprocessors. It is based on the Eclipse®/CDT framework and GCC toolchain for the development, and GDB for the debugging. It allows the integration of the hundreds of existing plugins that complete the features of the Eclipse® IDE.
